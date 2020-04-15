@@ -5,6 +5,7 @@ grep manual in linux:
 http://linuxcommand.org/lc3_man_pages/grep1.html
 
 in this program(my_grep) the available arguments that can be used are:
+
 ```-A```
 
 ```-b```
