@@ -14,6 +14,8 @@ in this program **(my_grep)** the available arguments that can be used are:
 
 ```-i```
 
+```-n```
+
 ```-v```
 
 ```-x```
