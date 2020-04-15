@@ -20,4 +20,4 @@ in this program(my_grep) the available arguments that can be used are:
 
 REGULAR EXPRESSIONS: by using ```E-```
 
-NOTE: searching the next characters:.)(][}{|\ will be excluded by using the -E argument and the characters will be written inside "".
+**NOTE:** searching the next characters:.)(][}{|\ will be excluded by using the ```-E``` argument and the characters will be written inside ```""```.
